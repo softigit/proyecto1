@@ -1,0 +1,1 @@
+fecha = 2016-06-24  inyeccion =   retorno =   consumo =   carga =   observacion =   idEquipo = 49  nroEquipo = 43   tipoTrabajo = 1  MM_insert = form1  button1 = submit  
